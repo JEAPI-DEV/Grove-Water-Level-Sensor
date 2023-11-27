@@ -7,6 +7,7 @@ class WaterLevelSensor {
   WaterLevelSensor();
 
   int readPercentage();
+  double WaterLevelSensor::readCM(double maxCM = 10);
   
   private:
   

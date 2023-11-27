@@ -9,12 +9,14 @@
 Grove		KEYWORD1
 Water		KEYWORD1
 Level		KEYWORD1
+
 #######################################
 # Methods and Functions (KEYWORD2)
 #######################################
 
 readPercentage	KEYWORD2
 readInt			KEYWORD2
+readCM          KEYWORD2
 
 #######################################
 # Instances (KEYWORD2)
